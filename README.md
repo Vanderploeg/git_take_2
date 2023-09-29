@@ -1,1 +1,2 @@
-Will Dennis Vanderplog
+Will Dennis Vanderpleog
+wvanderploeg@my.waketech.edu
